@@ -21,7 +21,7 @@ const Portfolio = () => {
                             </p>
 
                             <p>This web is just to make you easier to remember the book that you've already done to read and not already done.</p>
-                            <a href="https://github.com/P12inceKael/Bookshelf.git">Click here to test the web!</a>
+                            <a href="https://github.com/kidungardana/Bookshelf.git">Click here to test the web!</a>
 
                             
                         </div>
