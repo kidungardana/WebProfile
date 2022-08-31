@@ -11,7 +11,7 @@ const Navigator = () => {
             <div className="collapse mt-sm-20 navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav ">
                     <li className="nav-item">
-                        <a href="#home" className="nav-link">Home</a>
+                        <a href="#" className="nav-link">Home</a>
                     </li>
                     <li className="nav-item">
                         <a href="#about" className="nav-link">About</a>

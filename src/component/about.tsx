@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const About = () => {
     return (
         <div className="container-fluid">
@@ -9,7 +10,8 @@ const About = () => {
                     <span className="line mb-5"></span>
                     <h5 className="mb-3">Front End Developer</h5>
                     <p className="mt-20">I am a third-year student majoring in Computer Science at Bina Nusantara University who focused on Front End Engineer, familiar with C++, HTML, CSS and Javascript.</p>
-                    <button className="btn btn-outline-danger"><i className="icon-down-circled2 "></i>Download My CV</button>
+                    <a href={require("../KidungArdanaCV.pdf")} download="myFile"> <button className="btn btn-outline-danger"><i className="icon-down-circled2 "></i>Download My CV</button></a>
+                    
                 </div>
                 <div className="col-lg-4 about-card" style={{ paddingTop: "150px"}}>
                     <h3 className="font-weight-light">Personal Info</h3>
